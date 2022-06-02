@@ -51,3 +51,5 @@ According to the scatterplots generated above, stay at home and mask mandates ar
 It also calls to question the ethical considerations. Taken out of context - as it is right now - it could lead people to interpret this to mean that these mandates did not work when in fact there is a great deal more to this story. 
 
 The correlation heat map does illustrate the very strong correlation between total cases and total deaths to be very strongly correlated (which seems obvious, but it is good to confirm), so looking at total cases as a predictor of death is helpful for the hypothesis.
+
+Photo Credit: <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/photos/k0KRNtqcjfw">Unsplash</a>
