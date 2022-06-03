@@ -22,6 +22,7 @@ ____
 * NumPy
 * SciPy
 * MathPlotLib
+* StatsModels
 ________________________________
 
 
