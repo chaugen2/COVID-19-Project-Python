@@ -1,4 +1,4 @@
-# COVID-19 Mask and Stay at Home Mandate Efficacy
+# Efficacy of Mask and Stay at Home Mandates on COVID Cases and Deaths in the United States
 <img align="right" src="https://user-images.githubusercontent.com/98825216/171600918-5d6c2ae7-fecc-4994-ad9e-f21e1b3e7057.jpg" alt="COVID Virus">
 
 ### Overview:
