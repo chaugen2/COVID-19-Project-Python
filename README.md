@@ -1,13 +1,12 @@
-# Efficacy of Mask and Stay at Home Mandates on COVID Cases and Deaths in the United States
+# Efficacy of Mask and Stay at Home Mandates on COVID Cases in the United States
 <img align="right" src="https://user-images.githubusercontent.com/98825216/171600918-5d6c2ae7-fecc-4994-ad9e-f21e1b3e7057.jpg" alt="COVID Virus">
 
 ### Overview:
 Analysis of historical COVID case and death data during stay at home mandates provide insight for the general public and health professionals to better understand if mandates are effective in mitgating COVID in the United States.
-
 ___
 
 ### Objective:
-Peform data analysis of CDC data on COVID cases and deaths in relation to mask and stay at home mandatees to derive insights on the efficacy of the mandates.
+Peform data analysis of CDC data on COVID cases in relation to mask and stay at home mandatees to derive insights on the efficacy of the mandates.
 ____
 ### Data Sets:
 * [U.S. State and Territorial Stay-At-Home Orders: March 15, 2020 – August 15, 2021 by County by Day](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Stay-At-Home-Orders-Marc/y2iy-8irm)
@@ -25,7 +24,14 @@ ____
 * StatsModels
 ________________________________
 
-
+### Resources and Research
+* [Why Masks Work, but Mandates Haven’t](https://www.nytimes.com/2022/05/31/briefing/masks-mandates-us-covid.html). _New York Times_, May 31, 2022. 
+* [First Confirmed Case of COVID-19 Found in US](https://www.history.com/this-day-in-history/first-confirmed-case-of-coronavirus-found-in-us-washington-state). _History_, January 21, 2020.
+* [President Trump Confirms 1st U.S. Coronavirus Death; U.S. Heightens Travel Warnings](https://www.npr.org/2020/02/29/810722517/seattle-area-patient-with-coronavirus-dies?t=1654713407066&t=1656259469043). _National Public Radio_, February 29, 2020.
+* [Science Brief: Community Use of Masks to Control the Spread of SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/masking-science-sars-cov2.html). _CDC_, December 21, 2021.
+* [Evaluating the effectiveness of countywide mask mandates at reducing SARS-CoV-2 infection in the United States](https://www.degruyter.com/document/doi/10.1515/jom-2021-0214/html?lang=en). _Journal of Osteopathic Medicine_, January 21, 2022.
+* [Timing of State and Territorial COVID-19 Stay-at-Home Orders and Changes in Population Movement — United States, March 1–May 31, 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6935a2.htm). _CDC_, September 4, 2020.
+_____________________
 ### Research Questions
 
 #### Clarifying Questions
@@ -46,11 +52,8 @@ ______________
 * Null Hypothesis: The number of COVID cases in a state without mask or stay at home mandates is equal to or less than states with mandates, two weeks after mandates are put in place.
 * Hypothesis: The number of COVID cases in a state without mask or stay at home mandates is more than states with mandates, two weeks after mandates are put in place.
 _____________
-### Answers
-According to the scatterplots generated above, stay at home and mask mandates are correlated with higher COVID cases and deaths. This may likely be that because on those days, the cases and deaths were so high, it lead states and counties to implement these policies. Looking at the data in a time series (espeically 14 days after the mandates is crucial). It is also important to add a geographical measure (state or even county level) to this story - do states with mandates have lower cases? At this point, it is only looking at the cases and mandates nationwide, not the geographical component. 
+### Findings
+Hypohesis Testing: The correlation between mask mandates and COVID cases per 100K is 0.42 and between stay at home mandates and COVID cases per 100K is 0.30. These relationships are weak, so the null hyothesis cannot be rejected.
 
-It also calls to question the ethical considerations. Taken out of context - as it is right now - it could lead people to interpret this to mean that these mandates did not work when in fact there is a great deal more to this story. 
-
-The correlation heat map does illustrate the very strong correlation between total cases and total deaths to be very strongly correlated (which seems obvious, but it is good to confirm), so looking at total cases as a predictor of death is helpful for the hypothesis.
 
 Photo Credit: <a href="https://unsplash.com/@cdc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CDC</a> on <a href="https://unsplash.com/photos/k0KRNtqcjfw">Unsplash</a>
