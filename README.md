@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/98825216/171600918-5d6c2ae7-fecc-4994-ad9e-f21e1b3e7057.jpg" alt="COVID Virus">
 
 ### Overview:
-Analysis of historical COVID case and death data during stay at home mandates provide insight for the general public and health professionals to better understand if mandates are effective in mitgating COVID in the United States.
+Analysis of mask mandate and stay at home recommendation data to determine whether mandates are effective in mitigating COVID in the United States.
 ___
 
 ### Objective:
